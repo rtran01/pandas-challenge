@@ -5,7 +5,7 @@ Introduction:
 
 The datafile is located in the resources folder and the Jupyter Notebook can be found in the main folder "HeroesOfPymoli" as "HeroesOfPymoli.ipynb", which contains the codes used to analyze the data file "HeroesOfPymoli_data.csv".
 
-<B>Analysis Procedure (See "HeroesOfPymoli Summary" for an in-depth Analysis of the datafile):</B> 
+<B>Analysis Procedure (See "HeroesOfPymoli Summary" in resources for an in-depth Analysis of the datafile):</B> 
 
 Player Count:
 Total Number of Players.
